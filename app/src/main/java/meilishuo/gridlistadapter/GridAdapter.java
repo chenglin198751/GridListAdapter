@@ -7,13 +7,13 @@ import android.widget.LinearLayout;
 
 /**
  * meilishuo -- weichenglin create in 15/9/17
+ * //有问题可以联系我新浪微博 @弹棉花的孩子
  */
 public class GridAdapter<T> extends MyBaseAdapter<T> {
     private Context mContext;
     private int mNumColumns = 2;
     private int mLineSpace;
     private ItemClickListener mItemClickListener;
-
 
     /**
      * @param context Context

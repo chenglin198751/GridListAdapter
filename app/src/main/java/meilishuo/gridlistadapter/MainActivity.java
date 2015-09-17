@@ -11,6 +11,8 @@ public class MainActivity extends Activity {
     TestAdapter adapter;
     private ListView mListView;
 
+    //有问题可以联系我新浪微博 @弹棉花的孩子
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

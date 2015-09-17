@@ -12,6 +12,7 @@ import java.util.List;
 
 /**
  * weichenglin create in 15/9/17
+ * //有问题可以联系我新浪微博 @弹棉花的孩子
  */
 public class MyBaseAdapter<T> extends BaseAdapter {
     protected List<T> list = new ArrayList<T>();
