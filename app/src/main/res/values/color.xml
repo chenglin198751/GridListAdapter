@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <!--重新定义color规范，以后所有的文字颜色以及别的别的颜色都要遵循这个规范-->
+    <color name="color_4">#3f393d</color>
+    <color name="color_12">#F4E0E4</color>
+    <color name="white">#FFFFFF</color>
+</resources>
